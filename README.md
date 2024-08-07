@@ -6,4 +6,4 @@
 
 ### **_Recuerda que c/u de estas definiciones más relevantes las veremos con más detalla en las próximas sesiones, por ahora esto es una actividad para que puedas desarrollarla en tu casa y divertirte en un rato libre con ella._**
 
-**_Antes de comenzar..._**
+### **_Antes de comenzar..._**
