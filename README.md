@@ -17,3 +17,6 @@
 - **_Para insertar el código HTML en el documento en lugar de cambiar el contenido de un elemento, use el método ```insertAdjacentHTML()```._**
 
 ## **_Sintaxis_**
+const content = element.innerHTML;
+
+element.innerHTML = htmlString;
