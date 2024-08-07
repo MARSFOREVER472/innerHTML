@@ -27,4 +27,4 @@ element.innerHTML = htmlString;
 
 **_El evento ```onclick``` en JavaScript te permite como programador, ejecutar una función cuando se le da click a un elemento._**
 
-**_Ejemplo de botón onclick_**
+## **_Ejemplo de botón onclick_**
