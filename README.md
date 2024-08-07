@@ -13,3 +13,4 @@
 - **_La propiedad ```Element.innerHTML``` devuelve o establece la sintaxis HTML describiendo los descendientes del elemento._**
 
 - **_Al establecerse se reemplaza la sintaxis HTML del elemento por la nueva._**
+Para insertar el código HTML en el documento en lugar de cambiar el contenido de un elemento, use el método insertAdjacentHTML().
