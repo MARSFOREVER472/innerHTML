@@ -8,7 +8,7 @@
 
 ### **_Antes de comenzar..._**
 
-## **_¿Qué es el innerHTML?_**
+## **_¿Qué es el ```innerHTML```?_**
 
 - **_La propiedad ```Element.innerHTML``` devuelve o establece la sintaxis HTML describiendo los descendientes del elemento._**
 
