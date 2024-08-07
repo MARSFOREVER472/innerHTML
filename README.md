@@ -2,4 +2,4 @@
 
 ## **_Bienvenidos al curso de Javascript desde cero._**
 
-Aprenderemos a utilizar la propiedad innerHTML la cual reemplaza nuestro texto en HTML, conoceremos los que son las variables, la propiedad onclick y una pequeña muestra de los que puede hacer el DOM.
+### Aprenderemos a utilizar la propiedad innerHTML la cual reemplaza nuestro texto en HTML, conoceremos los que son las variables, la propiedad onclick y una pequeña muestra de los que puede hacer el DOM.
