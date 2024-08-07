@@ -10,19 +10,21 @@
 <body>
     
     <div class="container text-center py-5">
-        <h1 class="display-3 py-5">Modificando texto!!!!!</h1>
-        <button id="boton" class="btn btn-danger">Haz clic AQUÍ!!!</button>
+        <h1 id="titulo" class="display-3 py-5">Modificando texto!!!!!</h1>
+        <button id="boton" class="btn btn-danger" onclick='document.getElementById("titulo").innerHTML = nombre + apellido;'>Haz clic AQUÍ!!!</button>
     </div>
+
+    <script>
+        var nombre = "Marcelo";
+        var apellido = " Biaggini";
+       // document.getElementById("titulo").innerHTML = nombre + apellido;
+    </script>
     
     <!-- jQuery first, then Theter, then Bootstrap JS. -->
-    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/
-    nOQwliLvUsJfDHW+k90mg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="
-    sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
-    
+    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k90mg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
     <script src="js/bootstrap.min.js"></script>
-    <script src="script.js"></script>
+    <!-- <script src="script.js"></script> -->
 
 </body>
 </html>
