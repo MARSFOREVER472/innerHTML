@@ -24,4 +24,4 @@ element.innerHTML = htmlString;
 ```
 
 ### **_¿Qué es el evento onclick?_**
-El evento onclick en JavaScript te permite como programador, ejecutar una función cuando se le da clic a un elemento.
+El evento onclick en JavaScript te permite como programador, ejecutar una función cuando se le da click a un elemento.
