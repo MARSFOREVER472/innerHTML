@@ -14,4 +14,4 @@
 
 - **_Al establecerse se reemplaza la sintaxis HTML del elemento por la nueva._**
 
-- Para insertar el código HTML en el documento en lugar de cambiar el contenido de un elemento, use el método insertAdjacentHTML().
+- _Para insertar el código HTML en el documento en lugar de cambiar el contenido de un elemento, use el método insertAdjacentHTML()._
