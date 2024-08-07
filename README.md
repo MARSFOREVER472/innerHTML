@@ -8,4 +8,4 @@
 
 ### **_Antes de comenzar..._**
 
-¿Qué es el innerHTML?
+## ¿Qué es el innerHTML?
