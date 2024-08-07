@@ -23,4 +23,4 @@ const content = element.innerHTML;
 element.innerHTML = htmlString;
 ```
 
-### ¿Qué es el evento onclick?
+### _¿Qué es el evento onclick?_
