@@ -23,6 +23,6 @@ const content = element.innerHTML;
 element.innerHTML = htmlString;
 ```
 
-### **_¿Qué es el evento onclick?_**
+### **_¿Qué es el evento ```onclick```?_**
 
 **_El evento ```onclick``` en JavaScript te permite como programador, ejecutar una función cuando se le da click a un elemento._**
