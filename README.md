@@ -9,3 +9,4 @@
 ### **_Antes de comenzar..._**
 
 ## **_¿Qué es el innerHTML?_**
+La propiedad Element.innerHTML devuelve o establece la sintaxis HTML describiendo los descendientes del elemento.
